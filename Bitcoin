@@ -1,4 +1,4 @@
 a = 21000
 b = 1000
-c = b//a
-print("c = ", c)
+c = b/a
+print(round(с, 7))
